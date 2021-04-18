@@ -3,7 +3,7 @@
 
 - 🔭 I am currently looking for a professional replacement
 - 🌱 I am currently learning HTML5, CSS3, Javascript, analysis and systems development
-- 👯 I'm looking to collaborate on a project called "Me ajuda <DEV>"
+- 👯 I'm looking to collaborate on a project called "Me ajuda < DEV > "
 - 🤔 I'm looking for help with achieve this professional replacement
 
 
