@@ -8,7 +8,7 @@
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ElizabethNetto)](https://github.com/ElizabethNetto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elizabethnetto)](www.linkedin.com/in/elizabethnetto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizabethnetto/)](https://www.linkedin.com/in/elizabethnetto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elizabethmjnetto@gmail.com)](mailto:elizabethmjnetto@gmail.com)
 
 - Thanks for visiting. 
