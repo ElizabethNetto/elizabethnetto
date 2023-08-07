@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elizabethnetto&label=Profile%20views&color=0e75b6&style=flat" alt="elizabethnetto" /> </p>
 
-- 🌱 Atualmente estou aprendendo **HTML, PHP, CSS e analise e desenvolvimento de sistemas**
+- 🌱 Atualmente estou aprendendo **Java | HTML | PHP| CSS | JavaScript e analise e desenvolvimento de sistemas**
 
 - 🤝 Procuro pessoas quem me ajudem com **mentoria, network, amizade**
 
