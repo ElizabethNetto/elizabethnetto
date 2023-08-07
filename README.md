@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **HTML, PHP, CSS e analise e desenvolvimento de sistemas**
 
-- 🤝 Procuro pessoas que me ajudem com **mentoria, network, amizade**
+- 🤝 Procuro pessoas quem me ajudem com **mentoria, network, amizade**
 
 - 📫 Voce me acha através do email **elizabethmjnetto@gmail.com**
 
